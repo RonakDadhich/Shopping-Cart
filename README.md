@@ -1,2 +1,1 @@
-# Shopping-Cart
-JAVASCRIPT PROJECT
+https://ronakdadhich.github.io/Shopping-Cart/
