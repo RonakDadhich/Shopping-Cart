@@ -1,0 +1,2 @@
+# Shopping-Cart
+JAVASCRIPT PROJECT
